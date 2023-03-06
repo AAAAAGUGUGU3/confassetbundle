@@ -1,6 +1,6 @@
 {
-"StreamClose": true,
-"DownloadOnlyToggle": true,
+"StreamClose": false,
+"DownloadOnlyToggle": false,
 "HashCheckTaskCount": 2,
 "BufferSize": 81920
 }
